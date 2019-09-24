@@ -1,0 +1,5 @@
+Mobile app for tracking game attendance at Ravenscroft + rewards
+CS Trivia -- Why is it called uppercase and lowercase
+Ctrl-Alt-Delete
+
+Trivia for Honors CS -- What function can we map to binary search?
